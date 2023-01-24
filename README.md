@@ -26,7 +26,7 @@
 * ICA15
 
 ## Weekly Assignments
-* WA1
+* WA1 (https://github.com/syfi1718/syfi1718.github.io/blob/main/wa/wa1.html)
 * WA2
 * WA3
 * WA4
