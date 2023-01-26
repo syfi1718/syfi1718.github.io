@@ -9,7 +9,7 @@
 
 ## In-Class Assignments
 
-* ICA1
+* ICA1 (https://syfi1718.github.io/)
 * ICA2
 * ICA3
 * ICA4
