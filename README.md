@@ -10,7 +10,7 @@
 ## In-Class Assignments
 
 * ICA1 (https://syfi1718.github.io/)
-* ICA2
+* ICA2 (https://docs.google.com/document/d/1-ZgWtAzmKQtNW2HKOMmrWg6AUpVVKlTo6MuAPGylfVo/edit)
 * ICA3
 * ICA4
 * ICA5
@@ -26,7 +26,7 @@
 * ICA15
 
 ## Weekly Assignments
-* WA1
+* WA1 (https://github.com/syfi1718/syfi1718.github.io/blob/main/wa/wa1.html)
 * WA2
 * WA3
 * WA4
