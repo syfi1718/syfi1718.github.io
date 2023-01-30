@@ -27,7 +27,7 @@
 
 ## Weekly Assignments
 * WA1 (https://github.com/syfi1718/syfi1718.github.io/blob/main/wa/wa1.html)
-* WA2
+* WA2 (file:///Users/sydneyfisher/Documents/GitHub/syfi1718.github.io/wa/wa2.html)
 * WA3
 * WA4
 * WA5
