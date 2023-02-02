@@ -11,7 +11,7 @@
 
 * ICA1 (https://syfi1718.github.io/)
 * ICA2 (https://docs.google.com/document/d/1-ZgWtAzmKQtNW2HKOMmrWg6AUpVVKlTo6MuAPGylfVo/edit)
-* ICA3 (file:///Users/sydneyfisher/Documents/GitHub/syfi1718.github.io/ica/ica3a.html) (https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt)
+* ICA3 (https://syfi1718.github.io/ica/ica3a.html) (https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt)
 * ICA4
 * ICA5
 * ICA6
@@ -27,7 +27,7 @@
 
 ## Weekly Assignments
 * WA1 (https://github.com/syfi1718/syfi1718.github.io/blob/main/wa/wa1.html)
-* WA2 (file:///Users/sydneyfisher/Documents/GitHub/syfi1718.github.io/wa/wa2.html)
+* WA2 (https://syfi1718.github.io/wa/wa2.html)
 * WA3
 * WA4
 * WA5
