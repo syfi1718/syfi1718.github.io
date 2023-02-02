@@ -11,7 +11,7 @@
 
 * ICA1 (https://syfi1718.github.io/)
 * ICA2 (https://docs.google.com/document/d/1-ZgWtAzmKQtNW2HKOMmrWg6AUpVVKlTo6MuAPGylfVo/edit)
-* ICA3 (http://127.0.0.1:5500/ica3a.html) (https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt)
+* ICA3 (file:///Users/sydneyfisher/Documents/GitHub/syfi1718.github.io/ica/ica3a.html) (https://github.com/mdn/learning-area/blob/main/html/introduction-to-html/marking-up-a-letter-start/css.txt)
 * ICA4
 * ICA5
 * ICA6
