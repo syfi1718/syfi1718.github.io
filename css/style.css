@@ -23,7 +23,7 @@ html {
   width: 35em;
   height: 22em;
   margin: 5em auto;
-  background-color: red;
+  background-color: hotpink;
   border: 0.2em solid black;
   border-radius: 1.5em;
 }
@@ -39,7 +39,7 @@ html {
 .card footer {
   background-image: linear-gradient(to bottom,rgba(28,33,174,0), rgba(0,0,0,0.1));
   border-radius: 0 0 1.5em 1.5em;
-  font-size: 1.3em;
+  font-size: 1.4em;
   height: 3em;
   padding: 1.5em;
 }
@@ -52,9 +52,9 @@ html {
 .card article {
     height: 10em;
     background-color: rgba(0,0,0,0.25);
-    padding-left: 25em;
+    padding-left: .89em;
     padding-top: 0.09em;
-    color: white;
+    color: bisque;
 }
 
 
