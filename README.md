@@ -30,7 +30,7 @@
 * WA2 (https://syfi1718.github.io/wa/wa2.html)
 * WA3 (https://syfi1718.github.io/wa/wa3.html)
 * WA4 (https://syfi1718.github.io/css/wa4.html)
-* WA5
+* WA5 (https://syfi1718.github.io/wa/wa5.html)
 * WA6
 * WA7
 * WA8
