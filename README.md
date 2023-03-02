@@ -32,7 +32,7 @@
 * WA4 (https://syfi1718.github.io/css/wa4.html)
 * WA5 (https://syfi1718.github.io/wa/wa5.html)
 * WA6
-* WA7
+* WA7 (https://syfi1718.github.io/wa/wa7.html)
 * WA8
 * WA9
 * WA10
