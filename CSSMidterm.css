@@ -1,0 +1,150 @@
+body{
+    display: flex;
+    font-family:sans-serif;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.h1{
+    color: blue;
+}
+
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:30px;
+    background-color: rgb(247, 177, 207);
+}
+
+
+nav a{
+    width:16vw;
+    text-align:center;
+    text-decoration:none;
+    color: rgb(247, 235, 235);
+    font-weight: 300;
+    font-size: 25px;
+}
+
+nav a:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+
+img{
+    width:80vw;
+    height: 80vh;
+}
+
+#pink-ball{
+    background-color: rgb(243, 168, 243);
+    width: 40px;
+    height:40px;
+    border-radius: 50%;
+    position: absolute;
+    left:5vw;
+    top:10;
+    animation-name: pink-ballMove; 
+    animation-iteration-count:infinite;
+    animation-duration: 50s;
+    animation-direction:normal;
+}
+
+.first-txt {
+    font-size: 300px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.first-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.second-txt {
+    font-size: 30px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+
+.third-txt {
+    font-size: 300px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.third-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.fourth-txt {
+    font-size: 30px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.fifth-txt {
+    font-size: 200px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.fifth-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.sixth-txt {
+    font-size: 30px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.seventh-txt {
+    font-size: 300px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.seventh-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.eigth-txt {
+    font-size: 30px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.ninth-txt {
+    font-size: 250px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+.ninth-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.tenth-txt {
+    font-size: 30px;
+    font-weight: 200;
+    color: antiquewhite;
+}
+
+
+/* @keyframes box2move{
+    0%{background-color:orangered; height:20vh;}
+    50%{background-color: aquamarine; height:30vh;}
+    100%{background-color: orangered; height:500vh;}
+} */
+
+@keyframes pink-ballMove {
+    0%{left:0; top:0}
+    25%{left:15vw; top:0}
+    50%{left:70vw; top:70vh;}
+    75%{left:0vw;top:80vh;}
+    100%{left:100;top:100;}
+}
