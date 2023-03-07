@@ -15,7 +15,7 @@
 * ICA4 (https://syfi1718.github.io/ica/ica4.html)
 * ICA5 (https://syfi1718.github.io/ica/ica5/ica5.html)
 * ICA6 (https://syfi1718.github.io/ica/ica6/ica6-part1%20(1).html) (https://syfi1718.github.io/ica/ica6/ica6-part2.html)     (https://syfi1718.github.io/ica/ica6/ica6-part3.html)
-* ICA7
+* ICA7 (https://syfi1718.github.io/ica/ica7.html)
 * ICA8
 * ICA9
 * ICA10
@@ -31,8 +31,8 @@
 * WA3 (https://syfi1718.github.io/wa/wa3.html)
 * WA4 (https://syfi1718.github.io/css/wa4.html)
 * WA5 (https://syfi1718.github.io/wa/wa5.html)
-* WA6
-* WA7
+* WA6 (https://syfi1718.github.io/wa/wa6/wa6.html)
+* WA7 (https://syfi1718.github.io/wa/wa7.html)
 * WA8
 * WA9
 * WA10
