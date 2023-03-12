@@ -6,9 +6,6 @@ body{
     background-color: antiquewhite;
 }
 
-.h1{
-    color: blue;
-}
 
 nav{
     height: 50vh;
@@ -39,22 +36,17 @@ img{
     height: 80vh;
 }
 
-#pink-ball{
-    background-color: rgb(243, 168, 243);
-    width: 40px;
-    height:40px;
-    border-radius: 50%;
-    position: absolute;
-    left:5vw;
-    top:10;
-    animation-name: pink-ballMove; 
-    animation-iteration-count:infinite;
-    animation-duration: 50s;
-    animation-direction:normal;
+
+.vb {
+    margin-left: 27vw;
+    margin-right: 27vw;
 }
 
 .first-txt {
-    font-size: 300px;
+    position: absolute;
+    top: -16vh;
+    left: 14vw;
+    font-size: 18vw;
     font-weight: 200;
     color: antiquewhite;
 }
@@ -64,14 +56,24 @@ img{
 }
 
 .second-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
     font-size: 30px;
     font-weight: 200;
     color: antiquewhite;
 }
 
+.fp {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
 
 .third-txt {
-    font-size: 300px;
+    position: absolute;
+    top: -16vh;
+    left: 10vw;
+    font-size: 18vw;
     font-weight: 200;
     color: antiquewhite;
 }
@@ -81,13 +83,24 @@ img{
 }
 
 .fourth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
     font-size: 30px;
     font-weight: 200;
     color: antiquewhite;
 }
 
+.y {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
 .fifth-txt {
-    font-size: 200px;
+    position: absolute;
+    top: -7vh;
+    left: 2vw;
+    font-size: 15vw;
     font-weight: 200;
     color: antiquewhite;
 }
@@ -97,13 +110,23 @@ img{
 }
 
 .sixth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
     font-size: 30px;
     font-weight: 200;
     color: antiquewhite;
 }
+.p {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
 
 .seventh-txt {
-    font-size: 300px;
+    position: absolute;
+    top: -18vh;
+    left: 14vw;
+    font-size: 18vw;
     font-weight: 200;
     color: antiquewhite;
 }
@@ -113,13 +136,24 @@ img{
 }
 
 .eigth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
     font-size: 30px;
     font-weight: 200;
     color: antiquewhite;
 }
 
+.rs {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
 .ninth-txt {
-    font-size: 250px;
+    position: absolute;
+    top: -16vh;
+    left: 2vw;
+    font-size: 18vw;
     font-weight: 200;
     color: antiquewhite;
 }
@@ -129,6 +163,9 @@ img{
 }
 
 .tenth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
     font-size: 30px;
     font-weight: 200;
     color: antiquewhite;
@@ -141,10 +178,3 @@ img{
     100%{background-color: orangered; height:500vh;}
 } */
 
-@keyframes pink-ballMove {
-    0%{left:0; top:0}
-    25%{left:15vw; top:0}
-    50%{left:70vw; top:70vh;}
-    75%{left:0vw;top:80vh;}
-    100%{left:100;top:100;}
-}
