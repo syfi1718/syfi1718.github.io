@@ -17,7 +17,7 @@
 * ICA6 (https://syfi1718.github.io/ica/ica6/ica6-part1%20(1).html) (https://syfi1718.github.io/ica/ica6/ica6-part2.html)     (https://syfi1718.github.io/ica/ica6/ica6-part3.html)
 * ICA7 (https://syfi1718.github.io/ica/ica7.html)
 * ICA8
-* ICA9
+* ICA9 (https://syfi1718.github.io/ica/ica9.html)
 * ICA10 (https://syfi1718.github.io/ica/ica10.html)
 * ICA11
 * ICA12
