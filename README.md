@@ -35,7 +35,7 @@
 * WA7 (https://syfi1718.github.io/wa/wa7.html)
 * WA8
 * WA9 (https://syfi1718.github.io/wa/wa9.html)
-* WA10
+* WA10 (https://syfi1718.github.io/wa/assignment9.html)
 * WA11
 * WA12
 * WA13
