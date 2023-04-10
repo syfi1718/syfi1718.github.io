@@ -7,7 +7,6 @@ const getNewQuote = async () =>
 
     var url="https://type.fit/api/quotes";    
 
-
     const response=await fetch(url);
     console.log(typeof response);
   
@@ -16,7 +15,6 @@ const getNewQuote = async () =>
     const indx = Math.floor(Math.random()*allQuotes.length);
 
     const quote=allQuotes[indx].text;
-
 
     const auth=allQuotes[indx].author;
 
