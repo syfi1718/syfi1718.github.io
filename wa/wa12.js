@@ -1,12 +1,13 @@
 // Problem 1
 
 var employees = [
-    {"firstName":"Sam", "department":"Tech", "designation":"Manager", "salary":"40000", "raiseEligible":"true"},
-    {"firstName":"Mary", "department":"Finance", "designation":"Trainee", "salary":"18500", "raiseEligible":"true"},
-    {"firstName":"Bill", "department":"HR", "designation":"Executive", "salary":"21200", "raiseEligible":"false"},
-    {"firstName":"Anna", "department":"Tech", "designation":"Executive", "salary":"25600", "raiseEligible":"false"} // Problem 3
+    {"firstName":"Sam", "department":"Tech", "designation":"Manager", "salary":40000, "raiseEligible":"true"},
+    {"firstName":"Mary", "department":"Finance", "designation":"Trainee", "salary":18500, "raiseEligible":"true"},
+    {"firstName":"Bill", "department":"HR", "designation":"Executive", "salary":21200, "raiseEligible":"false"},
+    {"firstName":"Anna", "department":"Tech", "designation":"Executive", "salary":25600, "raiseEligible":"false"} // Problem 3
 ];
 
+console.log("Problem 1 and 3 output:");
 console.log(employees);
 
 // Problem 2
@@ -15,6 +16,7 @@ var company = {
     "companyName":"Tech Stars", "website":"www.techstars.site", "employees": employees
 };
 
+console.log("Problem 2 output:");
 console.log(company);
 
 // Problem 4
@@ -28,6 +30,7 @@ function calculateTotalSalary(company) {
     return totalSalary;
 }
     var companyTotalSalary = calculateTotalSalary(company);
+    console.log("Problem 4 output:");
     console.log(companyTotalSalary);
 
 // Problem 5
@@ -35,14 +38,17 @@ function calculateTotalSalary(company) {
 function giveRaise(company) {
     for (var i = 0; i < company.employees.length; i++) {
       var employee = company.employees[i];
-      if (employee.raiseEligible === "true") {
+      if (employee.raiseEligible === true) {
         employee.salary *= 1.1;
-        employee.raiseEligible = "false";
+        employee.raiseEligible = false;
       }
     }
   }
+
+giveRaise(company);
+console.log("Problem 5 output:");
+console.log(company.employees);
   
-  giveRaise(company);
 
 // Problem 6
 
@@ -57,5 +63,6 @@ for (var i = 0; i < company.employees.length; i++) {
         employee.wfh = false;
     }
 }
-    
+
+console.log("Problem 6 output:");
 console.log(company);
