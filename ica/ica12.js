@@ -75,12 +75,12 @@ class Ball {
 const balls = [];
 
 while (balls.length < 100) {
-    const size = random(1,20);
+    const size = random(1,20); // determining the hypothetical smallest and largest ball we could have
     const ball = new Ball(
-        random(0 + size, width - size),
-        random(0 + size, height - size),
-        random(-10, 10), 
-        random(-10, 10),
+        random(0 + size, width - size), // random position
+        random(0 + size, height - size), // random position
+        random(-10, 10), // random speed x
+        random(-10, 10), // random speed y
         randomRGB(),
         size
     );
