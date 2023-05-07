@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background:rgb(223, 217, 217);
+    color: teal;
+  }
+  ::selection {
+    color: #fff;
+    background-color: teal;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 4rem;
+    border-radius: 14px;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    margin: 0 auto; /* Center the container horizontally */
+    font-size: 30px;
+    text-align: left;
+  }
+  .container h1,
+  .container p {
+    margin: 0;
+  }

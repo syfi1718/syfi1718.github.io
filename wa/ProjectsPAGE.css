@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(223, 217, 217);
+    font-size: 20px;
+    text-align: center;
+    color: rgb(58, 57, 57);
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: rgb(247, 177, 207);
+    color: rgb(193, 32, 134);
+  }
+  
+  .full-img {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 480px;
+    overflow: hidden;
+  }
+  
+  .displayed-img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  button {
+    border: 0;
+    text-shadow: 1px 1px 1px white;
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    left: 10px;
+    background-color: antiquewhite;
+    color: rgb(44, 90, 68);
+  }
+  .thumb-bar {
+    display: flex;
+    flex-wrap: wrap; /* Allow images to wrap to the next line */
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .thumb-bar img {
+    display: block;
+    width: auto;
+    height: 80px;
+    margin: 5px; /* Add some margin around each image */
+    cursor: pointer;
+    font-size: 0;
+    line-height: 0;
+    color: transparent;
+  }
+  .thumb-bar img:not([src]) {
+    display: none;
+  }
+  

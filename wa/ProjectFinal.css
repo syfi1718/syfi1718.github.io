@@ -1,0 +1,180 @@
+body{
+    display: flex;
+    font-family:sans-serif;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(223, 217, 217);
+}
+
+
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:30px;
+    background-color: rgb(193, 32, 134);
+}
+
+
+nav a{
+    width:16vw;
+    text-align:center;
+    text-decoration:none;
+    color: rgb(247, 235, 235);
+    font-weight: 300;
+    font-size: 25px;
+}
+
+nav a:hover {
+    background-color: rgb(255, 255, 255);
+}
+
+
+img{
+    width:80vw;
+    height: 80vh;
+}
+
+
+.vb {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
+.first-txt {
+    position: absolute;
+    top: -23vh;
+    left: 14vw;
+    font-size: 18vw;
+    font-weight: 200;
+    color:rgb(223, 217, 217);
+}
+
+.first-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.second-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+
+.fp {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
+.third-txt {
+    position: absolute;
+    top: -23vh;
+    left: 10vw;
+    font-size: 18vw;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+
+.third-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.fourth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+
+.y {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
+.fifth-txt {
+    position: absolute;
+    top: -13vh;
+    left: 2vw;
+    font-size: 15vw;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+
+.fifth-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.sixth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+.p {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
+.seventh-txt {
+    position: absolute;
+    top: -23vh;
+    left: 18vw;
+    font-size: 18vw;
+    font-weight: 200;
+    color:rgb(223, 217, 217);
+}
+
+.seventh-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.eigth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+
+.rs {
+    margin-left: 27vw;
+    margin-right: 27vw;
+}
+
+.ninth-txt {
+    position: absolute;
+    top: -13vh;
+    left: 3.5vw;
+    font-size: 15vw;
+    font-weight: 200;
+    color:rgb(223, 217, 217);
+}
+
+.ninth-txt:hover {
+    background-color: rgb(44, 90, 68);
+}
+
+.tenth-txt {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    font-size: 30px;
+    font-weight: 200;
+    color: rgb(223, 217, 217);
+}
+
+
+/* @keyframes box2move{
+    0%{background-color:orangered; height:20vh;}
+    50%{background-color: aquamarine; height:30vh;}
+    100%{background-color: orangered; height:500vh;}
+} */
+

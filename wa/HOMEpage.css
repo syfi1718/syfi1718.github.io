@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    font-family: sans-serif;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(223, 217, 217);
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(247, 177, 207);
+    color: rgb(193, 32, 134);
+    font-size: 40px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(58, 57, 57);
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.photo-container {
+    display: inline-block;
+    max-width: 100%; /* Set the maximum width to 100% */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px; /* Add margin between the photos */
+  }
+  
+  .grid-photo {
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+
+
